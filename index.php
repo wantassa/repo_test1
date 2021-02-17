@@ -29,6 +29,7 @@
 		<td>Griya Panorama Permai</td>
 		<td>Pekanbaru/05,09,2003</td>		
 		<td>SMK7</td>
+        <td>SMP@</td>
 		</tr>
 		</font></table>
 		<hr/>
